@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""Module to solve make change problem"""
+
+
 def makeChange(coins, total):
     """
     method determine the fewest number of coins needed
