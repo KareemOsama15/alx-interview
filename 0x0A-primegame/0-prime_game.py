@@ -56,4 +56,4 @@ def primes_in_range(start, end):
     primes = [n for n in range(start, end+1) if is_prime(n)]
     return primes
 
-print("Winner: {}".format(isWinner(5, [2, 5, 1, 4, 3])))
+# print("Winner: {}".format(isWinner(5, [2, 5, 1, 4, 3])))
